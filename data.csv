@@ -159,7 +159,7 @@ VELVETY SMOOTH PUMPKIN CHEESECAKE,"{
         ],
         ""note"": null
     }"
-🍔 Juicy One Bite Shrimp Burger with Mushrooms!,"{
+Juicy One Bite Shrimp Burger with Mushrooms!,"{
         ""name"": ""Juicy One Bite Shrimp Burger with Mushrooms!"",
         ""url"": ""https://youtu.be/RfWHo7C-w-Q"",
         ""ingredients"": {
@@ -850,7 +850,7 @@ Strawberry Matcha Latte,"{
     ],
     ""note"": null
   }"
-Salted Brownie Cookies - searching for original recipe,"{
+Salted Brownie Cookies,"{
     ""name"": ""Salted Brownie Cookies"",
     ""url"": ""https://cooking.nytimes.com/recipes/1020520-tiny-salty-chocolaty-cookies"",
     ""ingredients"": {
@@ -894,7 +894,7 @@ Thai Green Curry Chicken Satay,"{
     ],
     ""note"": ""You could use any curry paste you like. Do you have a favorite shop-bought paste or a homemade Panang curry paste in the freezer? Feel free to use that one. Making use of a curry paste for a marinade is a real shortcut to a flavor-packed BBQ-dish!""
   }"
-Pretzels 🥨,"{
+Pretzels,"{
     ""name"": ""Pretzels"",
     ""url"": ""https://youtu.be/kGRa5XLGNAU"",
     ""ingredients"": {
@@ -1631,7 +1631,7 @@ Beef Wellington,"{
   ]
 }
 "
-Beef Wellington (2nd try),"{
+Beef Wellington,"{
   ""name"": ""Beef Wellington"",
   ""ingredients"": {
     ""beef_tenderloin"": [""2 lb Beef Tenderloin roast or filet mignon"", ""Salt and Pepper"", ""Dijon mustard""],
@@ -2091,7 +2091,7 @@ Chicken Soup with Orzo and Mozzarella,"{
   }
 }
 "
-Christmas 🎄 Eggnog French Toast,"{
+Christmas Eggnog French Toast,"{
   ""name"": ""Christmas Eggnog French Toast"",
   ""ingredients"": [
     ""4 large eggs"",
@@ -2308,7 +2308,7 @@ Steamed Sweet Potato and Taro Cake,"{
   ""note"": null
 }
 "
-"Swedish Budapestrulle ""Budapest Roll Cake"" featuring a hazelnut meringue filled with whipped cream, juicy clementines and dark chocolate.","{
+"Swedish Budapestrulle","{
   ""name"": ""Budapestrulle (Swedish Budapest Roll Cake)"",
   ""url"": ""https://dobbernationloves.com/food-drink/budapestrulle-swedish-budapest-roll-cake-recipe/"",
   ""ingredients"": {
@@ -4139,8 +4139,8 @@ Sweet & Sour Fish in Batter,"{
   ""url"": ""https://linschinesekitchen.com/sweet-sour-fish-recipe/""
 }
 "
-Cuban Ropa Vieja (Old Clothes),"{
-  ""name"": ""Cuban Ropa Vieja (Old Clothes)"",
+Cuban Ropa Vieja,"{
+  ""name"": ""Cuban Ropa Vieja"",
   ""url"": null,
   ""ingredients"": {
     ""vegetable_oil"": ""1 tablespoon"",
@@ -5533,8 +5533,8 @@ Shrimp in Coconut Broth,"{
   ""note"": null
 }
 "
-The Best Blondies (Recipe),"{
-  ""name"": ""The Best Blondies"",
+Blondies,"{
+  ""name"": ""Blondies"",
   ""url"": ""https://www.sarahfreia.com/blog/best-gluten-free-blondies-recipe"",
   ""ingredients"": {
     ""blondies"": [
