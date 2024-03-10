@@ -8,7 +8,10 @@ In this dataset, we provide recipes for various dishes, including raw data and a
 
 ## Use Case
 
-The dataset is suitable for training and testing natural language processing models, especially those involved in recipe analysis, summarization, or understanding. It can be utilized for tasks such as:
+The dataset is suitable for training and testing natural language processing models, especially those involved in recipe analysis, summarization, or understanding. 
+Another major area where we can use this data is to finetune LLMs using various finetuning methods such as **LoRA** , **QLoRA** , **RAG**, etc...
+
+It can be utilized for tasks such as:
 
 1. **Recipe Summarization:** Generating concise summaries of recipes based on raw data or decomposed JSON.
 
@@ -17,6 +20,8 @@ The dataset is suitable for training and testing natural language processing mod
 3. **Structured Data Processing:** Utilizing decomposed JSON data for training models to extract structured information from unstructured text.
 
 4. **Recipe Recommendation Systems:** Developing systems that recommend recipes based on user preferences or dietary restrictions.
+
+5. **Providing New Recipes:** Fine tuning LLMs that generate new recipes based on past data!
 
 ## Example
 
@@ -72,3 +77,13 @@ Barbecued Miso Butter Corn on the Cob	"You can make the recipe [HERE](https://do
 }
 ```
 
+Here we first scrape the reddit page containing the sub-reddit **r/recipes** using the python code given.
+
+Next we perform **CHATGPT Decomposition** to obtain JSON fromatted values , it is how CHATGPT would decompose the question into sub-questions in order to provide an answer. The intent is to help retrieval-augmented answering (RAG) systems ask the right sub-questions to aid the response quality.
+
+Therefore our columns are:
+1. **Title of Recipe**
+   
+2. **Raw Data**
+
+3. **CHATGPT Decomposed DATA**
