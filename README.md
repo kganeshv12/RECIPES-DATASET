@@ -87,3 +87,5 @@ Therefore our columns are:
 2. **Raw Data**
 
 3. **CHATGPT Decomposed DATA**
+
+## Number of entries : **164**
