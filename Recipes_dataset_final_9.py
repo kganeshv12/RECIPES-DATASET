@@ -1,9 +1,9 @@
 import praw
 import pandas as pd
 
-reddit_read_only = praw.Reddit(client_id="IrJa-0MBXkn2bmkDTSYYeg",
-                               client_secret="WntiNpah5sWFBMMqqsBLa3BJSfQYaw",
-                               user_agent="Mrecipes")
+reddit_read_only = praw.Reddit(client_id="",
+                               client_secret="",
+                               user_agent="")
 
 subreddit = reddit_read_only.subreddit("recipes")
 
