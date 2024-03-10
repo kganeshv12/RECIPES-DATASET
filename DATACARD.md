@@ -81,7 +81,7 @@ Here we first scrape the reddit page containing the sub-reddit **r/recipes** usi
 
 Next we perform **CHATGPT Decomposition** to obtain JSON fromatted values , it is how CHATGPT would decompose the question into sub-questions in order to provide an answer. The intent is to help retrieval-augmented answering (RAG) systems ask the right sub-questions to aid the response quality.
 
-Therefore our columns are:
+columns are:
 1. **Title of Recipe**
    
 2. **Raw Data**
