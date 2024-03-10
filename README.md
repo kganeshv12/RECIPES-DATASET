@@ -24,28 +24,30 @@ The dataset is suitable for training and testing natural language processing mod
 
 #### Raw Data
 ```plaintext
-"You can make the recipe [HERE](https://dobbernationloves.com/food-drink/pakistani-chicken-tikka-boti-kebab-recipe/)!
-...
-Serve hot sprinkled with lemon juice alongside steamed rice or flatbreads like naan, roti or parathas."
+Barbecued Miso Butter Corn on the Cob	"You can make the recipe [HERE](https://dobbernationloves.com/food-drink/miso-butter-corn-on-the-cob-recipe/).
 
+*Ingredients*
 
-**Decomposed Data:**
-```json
-{
-    "name": "Grilled Chicken Tikka Boti Kebab",
-    "url": "https://dobbernationloves.com/food-drink/pakistani-chicken-tikka-boti-kebab-recipe/",
-    "ingredients": {
-        "chicken": "1 kg Skinless Boneless Chicken Thighs cut into bite-sized pieces",
-        "marinade": [
-            "1/4 cup Greek Yogurt",
-            "2 tsp Gram Chickpea Flour",
-            ...
-        ]
-    },
-    "instructions": [
-        "Mix the yogurt with the gram flour in a bowl to get rid of any lumps...",
-        "Soak wooden skewers in water. Preheat the grill to medium...",
-        "Serve hot sprinkled with lemon juice alongside steamed rice or flatbreads like naan, roti or parathas."
-    ],
-    "note": null
+* 4 Corn on the cob
+
+*Miso Chive Butter*
+
+* 60 g Butter diced
+* 2 tbsp Miso Paste
+* 10 g Fresh Chives finely chopped
+* 2 tsp Maple Syrup
+* 1 tbsp Lemon Juice
+
+*Instructions*
+
+1. Leave the butter out of the fridge to soften. Preheat your barbecue grill to 460F or its highest setting.
+2. In a small bowl, mix the butter to loosen it, then stir in the miso paste and chives with a rubber spatula.
+3. Put the corn on the barbecue and grill for 5 minutes, turning a couple of times until evenly charred.
+4. Schmear the hot corn with miso butter and drizzle with maple syrup and lemon juice before serving."
 }
+```
+
+### JSON Formatted
+```JSON
+
+```
