@@ -49,7 +49,6 @@ Barbecued Miso Butter Corn on the Cob	"You can make the recipe [HERE](https://do
 2. In a small bowl, mix the butter to loosen it, then stir in the miso paste and chives with a rubber spatula.
 3. Put the corn on the barbecue and grill for 5 minutes, turning a couple of times until evenly charred.
 4. Schmear the hot corn with miso butter and drizzle with maple syrup and lemon juice before serving."
-}
 ```
 
 ### JSON Formatted
